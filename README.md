@@ -11,7 +11,7 @@
       Leak of proxyscrape.com keys
       A total of 11k
       Login here https://dashboard.proxyscrape.com/login
-      Not by me !
+      Leaked by pompompurin
   }
 ```
 
